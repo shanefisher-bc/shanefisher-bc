@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋 we're <a href="https://www.braincorp.com/technology/brainos/">Brain Corp</a></h2>
   
-We are a team of <strong>robot enthusiasts</strong> that live to create the <em>world’s best AI software</em> for building and using autonomous mobile robots.
+We are a team of <strong>robot enthusiasts</strong> that live to create the <em>world’s best AI software</em> for building and using autonomous mobile robots
 
 <a href="https://www.braincorp.com/technology/autonomy/"> <img src="https://user-images.githubusercontent.com/36712650/138167205-f2970521-f837-4958-9200-d8a2e616ac1b.gif" alt="Automate to Better Operate" align="right" height="550" width="550"></a> 
 
