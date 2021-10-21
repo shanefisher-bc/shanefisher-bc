@@ -18,8 +18,14 @@ We are a team of <strong>robot enthusiasts</strong> that live to create the <em>
 
 <h3> Follow us on social </h3>
 
-- `Linkedin`
-- `Insta`
-- `Facebook`
-- `Twitter`
-- `Oh, and by the way, we are always hiring talented, passionate people to` <a href="https://www.braincorp.com/company/careers/">join our team</a> 🙌
+- <a href="https://www.linkedin.com/company/brain-corporation/mycompany/"> <img src="https://user-images.githubusercontent.com/36712650/138331127-6e0c4f61-1611-412a-ae9c-c4349bb005d9.png" alt="LinkedIn" height="30" width="30"></a> `Linkedin`
+
+- <a href="https://www.instagram.com/the_braincorp/"> <img src="https://user-images.githubusercontent.com/36712650/138331148-a5706223-10b5-4c67-b279-3600c7427e6c.png" alt="Instagram" height="30" width="30"></a> `Instagram`
+
+- <a href="https://www.facebook.com/WeAreBrainCorp/"> <img src="https://user-images.githubusercontent.com/36712650/138331215-5a469d5b-938d-49f8-b8e3-0fcb75deb7a4.png" alt="Facebook" height="30" width="30"></a> `Facebook`
+
+- <a href="https://twitter.com/braincorp"> <img src="https://user-images.githubusercontent.com/36712650/138331195-6ab4394e-234d-42c6-b0fa-5663ae7880ef.png" alt="Twitter" height="30" width="30"></a> `Twitter` 
+
+- <a href="https://www.braincorp.com/"> <img src="https://user-images.githubusercontent.com/36712650/138336860-a3798c89-180f-42c7-b5db-027fc6dbf4b6.png" alt="BCLogo" height="30" width="30"></a> `Oh, and by the way, we are always hiring talented, passionate people to` <a href="https://www.braincorp.com/company/careers/">join our team</a> 🙌 
+
+<img src="https://user-images.githubusercontent.com/36712650/138336027-28fb6447-e781-47d2-a7ff-fbde56c8f4b1.png" alt="Robot team">
