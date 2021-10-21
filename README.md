@@ -16,7 +16,7 @@ We are a team of <strong>robot enthusiasts</strong> that live to create the <em>
 
 - [link to project repo]
 
-<h3> Follow us on social </h3>
+<h3> Follow us on social 🌐 </h3>
 
 - <a href="https://www.linkedin.com/company/brain-corporation/mycompany/"> <img src="https://user-images.githubusercontent.com/36712650/138331127-6e0c4f61-1611-412a-ae9c-c4349bb005d9.png" alt="LinkedIn" height="30" width="30"></a> `Linkedin`
 
