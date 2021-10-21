@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="https://www.braincorp.com/"> <img src="https://user-images.githubusercontent.com/36712650/138186426-f3284b06-4e1d-4f0e-a3e3-32cb726e4e34.jpeg" alt="It's a crisp BrainOS logo, wow so beautiful!" align="middle"></a>
+<a href="https://www.braincorp.com/"> <img src="https://user-images.githubusercontent.com/36712650/138339247-47259722-4ca5-4a59-ba4e-274baaa42aaa.png" alt="It's a crisp BrainOS logo, wow so beautiful!" align="middle"></a>
 <p/>
 
 <h2 align="center">Hi 👋 we're <a href="https://www.braincorp.com/technology/brainos/">Brain Corp</a></h2>
@@ -13,7 +13,7 @@ We are a team of <strong>robot enthusiasts</strong> that live to create the <em>
 - `BrainOS® is a pioneering AI software platform that powers the world’s largest fleet of autonomous mobile robots (AMRs) operating in indoor public spaces. Robots enabled by BrainOS software navigate autonomously, learn from user demonstration and process sensor data collected from usage to avoid obstacles, adapt to changing environments, manage data, and seamlessly interact with end-customers.`
 
 <h3> Check out some of out open source projects where we contribute useful general-purpose code 🧠 </h3>
-
+https://user-images.githubusercontent.com/36712650/138186426-f3284b06-4e1d-4f0e-a3e3-32cb726e4e34.jpeg
 - [link to project repo]
 
 <h3> Follow us on social 🌐 </h3>
