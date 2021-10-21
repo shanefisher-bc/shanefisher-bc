@@ -29,4 +29,4 @@ We are a team of <strong>robot enthusiasts</strong> that live to create the <em>
 
 - <a href="https://www.braincorp.com/"> <img src="https://user-images.githubusercontent.com/36712650/138336860-a3798c89-180f-42c7-b5db-027fc6dbf4b6.png" alt="BCLogo" height="30" width="30"></a> `Oh, and by the way, we are always hiring talented, passionate people to` <a href="https://www.braincorp.com/company/careers/">join our team</a> 🙌 
 
-<img src="https://user-images.githubusercontent.com/36712650/138359249-55e467fe-7f50-4f5d-a8dc-0602c44d62e2.png" alt="Robot squad">
+<img src="https://user-images.githubusercontent.com/36712650/138365704-96e70391-7653-4c1c-ae15-c095cbeff258.png" alt="Robot squad">
