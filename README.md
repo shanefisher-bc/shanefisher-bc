@@ -8,16 +8,16 @@ We are a team of <strong>robot enthusiasts</strong> that live to create the <em>
 
 <a href="https://www.braincorp.com/technology/autonomy/"> <img src="https://user-images.githubusercontent.com/36712650/138167205-f2970521-f837-4958-9200-d8a2e616ac1b.gif" alt="Automate to Better Operate" align="right" height="550" width="550"></a> 
 
-<h3> Creating transformative core technology for the robotics industry 🤖 </h3>
+<h3> 🤖 Creating transformative core technology for the robotics industry: </h3>
 
 - `BrainOS® is a pioneering AI software platform that powers the world’s largest fleet of autonomous mobile robots (AMRs) operating in indoor public spaces. Robots enabled by BrainOS software navigate autonomously, learn from user demonstration and process sensor data collected from usage to avoid obstacles, adapt to changing environments, manage data, and seamlessly interact with end-customers.`
 
-<h3> Check out some of out open source projects where we contribute useful general-purpose code 🧠 </h3>
+<h3> 🧠 Check out some of out open source projects where we contribute useful general-purpose code: </h3>
 
 - `[link to project repo placeholder]`
 - `[link to project repo placeholder]`
 
-<h3> Follow us on social 🌐 </h3>
+<h3> 🌐 Follow us on social: </h3>
 
 - <a href="https://www.linkedin.com/company/brain-corporation/mycompany/"> <img src="https://user-images.githubusercontent.com/36712650/138342314-827a4265-90e4-4ffa-bd47-412b3e3da092.png" alt="LinkedIn" height="30" width="30"></a> `Linkedin`
 
