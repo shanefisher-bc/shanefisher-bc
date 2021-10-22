@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="https://www.braincorp.com/"> <img src="https://user-images.githubusercontent.com/36712650/138356121-b1f6dd80-d811-410f-9b06-01dadf07812b.png" alt="It's a crisp BrainOS logo, wow so beautiful!" align="middle"></a>
+<a href="https://www.braincorp.com/"> <img src="https://user-images.githubusercontent.com/36712650/138513028-de42c680-f89e-402b-8e96-472da8158dca.png" alt="It's a crisp Brain Swirl, wow so beautiful!" align="middle" height="450" width="650"></a>
 <p/>
 
 <h2 align="center">Hi 👋 we're <a href="https://www.braincorp.com/technology/brainos/">Brain Corp</a></h2>
@@ -23,7 +23,7 @@ We are a team of <strong>robot enthusiasts</strong> that live to create the <em>
 
 - <a href="https://www.linkedin.com/company/brain-corporation/mycompany/"> <img src="https://user-images.githubusercontent.com/36712650/138342314-827a4265-90e4-4ffa-bd47-412b3e3da092.png" alt="LinkedIn" height="30" width="30"></a> `Linkedin`
 
-- <a href="https://www.instagram.com/the_braincorp/"> <img src="https://user-images.githubusercontent.com/36712650/138342361-bd2be786-fad8-47fe-8353-bbd6b6bd2b50.png" alt="Instagram" height="30" width="30"></a> `Instagram`
+- <a href="https://www.instagram.com/wearebraincorp/"> <img src="https://user-images.githubusercontent.com/36712650/138342361-bd2be786-fad8-47fe-8353-bbd6b6bd2b50.png" alt="Instagram" height="30" width="30"></a> `Instagram`
 
 - <a href="https://www.facebook.com/WeAreBrainCorp/"> <img src="https://user-images.githubusercontent.com/36712650/138342458-ad2cf22e-6e5d-4f7f-8a56-7413105de90c.png" alt="Facebook" height="30" width="30"></a> `Facebook`
 
