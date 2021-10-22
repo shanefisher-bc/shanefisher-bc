@@ -1,14 +1,12 @@
 <p align="center"> 
-<a href="https://www.braincorp.com/"> <img src="https://user-images.githubusercontent.com/36712650/138513028-de42c680-f89e-402b-8e96-472da8158dca.png" alt="It's a crisp Brain Swirl, wow so beautiful!" align="middle" height="450" width="650"></a>
+<a href="https://www.braincorp.com/"> <img src="https://user-images.githubusercontent.com/36712650/138513028-de42c680-f89e-402b-8e96-472da8158dca.png" alt="It's a crisp Brain Swirl, wow so beautiful!" align="middle" height="450" width="600"></a>
 <p/>
 
 <h2 align="center">Hi 👋 we're <a href="https://www.braincorp.com/technology/brainos/">Brain Corp</a></h2>
   
 We are a team of <strong>robot enthusiasts</strong> that live to create the <em>world’s best AI software</em> for building and using autonomous mobile robots
 
-<a href="https://www.braincorp.com/technology/autonomy/"> <img src="https://user-images.githubusercontent.com/36712650/138511548-7d89cd5d-50f8-4abb-b51e-bd587eddded8.png" alt="Automate to Better Operate" align="right" height="720" width="550"></a> 
-
-
+<a href="https://www.braincorp.com/technology/autonomy/"> <img src="https://user-images.githubusercontent.com/36712650/138514011-e1b16b67-b090-4c3f-ae93-e6e9d619be34.png" alt="Automate to Better Operate" align="right" height="770" width="550"></a> 
 
 <h3> 🤖 Creating transformative core technology for the robotics industry: </h3>
 
