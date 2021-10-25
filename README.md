@@ -27,6 +27,6 @@ We are a team of <strong>robot enthusiasts</strong> that live to create the <em>
 
 - <a href="https://twitter.com/braincorp"> <img src="https://user-images.githubusercontent.com/36712650/138342528-3631aacc-1893-45f8-b27c-79258b2831fd.png" alt="Twitter" height="30" width="30"></a> `Twitter` 
 
-- <a href="https://www.braincorp.com/"> <img src="https://user-images.githubusercontent.com/36712650/138336860-a3798c89-180f-42c7-b5db-027fc6dbf4b6.png" alt="BCLogo" height="30" width="30"></a> `Oh, and by the way, we are always hiring talented, passionate people to` <a href="https://www.braincorp.com/company/careers/">join our team</a> 🙌 
+- <a href="https://www.braincorp.com/company/contact-us/"> <img src="https://user-images.githubusercontent.com/36712650/138336860-a3798c89-180f-42c7-b5db-027fc6dbf4b6.png" alt="BCLogo" height="30" width="30"></a> `Oh, and by the way, we are always hiring talented, passionate people to` <a href="https://www.braincorp.com/company/careers/">join our team</a> 🙌 
 
-<img src="https://user-images.githubusercontent.com/36712650/138365704-96e70391-7653-4c1c-ae15-c095cbeff258.png" alt="Robot squad">
+<a href="https://www.braincorp.com/company/about-us/"> <img src="https://user-images.githubusercontent.com/36712650/138365704-96e70391-7653-4c1c-ae15-c095cbeff258.png" alt="Robot squad">
