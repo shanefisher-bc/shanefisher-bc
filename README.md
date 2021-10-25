@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="https://www.braincorp.com/"> <img src="https://user-images.githubusercontent.com/36712650/138513028-de42c680-f89e-402b-8e96-472da8158dca.png" alt="It's a crisp Brain Swirl, wow so beautiful!" align="middle" height="450" width="600"></a>
+<a href="https://www.braincorp.com/"> <img src="https://user-images.githubusercontent.com/36712650/138513028-de42c680-f89e-402b-8e96-472da8158dca.png" alt="It's a crisp Brain Swirl, wow so beautiful!" align="middle" height="400" width="550"></a>
 <p/>
 
 <h2 align="center">Hi 👋 we're <a href="https://www.braincorp.com/technology/brainos/">Brain Corp</a></h2>
