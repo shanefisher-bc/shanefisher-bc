@@ -6,7 +6,7 @@
   
 We are a team of <strong>robot enthusiasts</strong> that live to create the <em>world’s best AI software</em> for building and using autonomous mobile robots
 
-<a href="https://www.braincorp.com/technology/autonomy/"> <img src="https://user-images.githubusercontent.com/36712650/138514011-e1b16b67-b090-4c3f-ae93-e6e9d619be34.png" alt="Automate to Better Operate" align="right" height="770" width="550"></a> 
+<a href="https://www.braincorp.com/technology/autonomy/"> <img src="https://user-images.githubusercontent.com/36712650/138514011-e1b16b67-b090-4c3f-ae93-e6e9d619be34.png" alt="Automate to Better Operate" align="right" height="670" width="450"></a> 
 
 <h3> 🤖 Creating transformative core technology for the robotics industry: </h3>
 
@@ -14,8 +14,7 @@ We are a team of <strong>robot enthusiasts</strong> that live to create the <em>
 
 <h3> 🧠 Check out some of out open source projects where we contribute useful general-purpose code: </h3>
 
-- `[link to project repo placeholder]`
-- `[link to project repo placeholder]`
+- `Comming soon!`
 
 <h3> 🌐 Follow us on social: </h3>
 
