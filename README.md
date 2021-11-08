@@ -12,9 +12,9 @@ We are a team of <strong>robot enthusiasts</strong> that live to create the <em>
 
 - `BrainOS® is a pioneering AI software platform that powers the world’s largest fleet of autonomous mobile robots (AMRs) operating in indoor public spaces. Robots enabled by BrainOS software navigate autonomously, learn from user demonstration and process sensor data collected from usage to avoid obstacles, adapt to changing environments, manage data, and seamlessly interact with end-customers.`
 
-<h3> 🧠 Check out some of out open source projects where we contribute useful general-purpose code: </h3>
+<h3> 🧠 Check out some of our open source projects where we contribute useful general-purpose code: </h3>
 
-- `Comming soon!`
+- `Coming soon!`
 
 <h3> 🌐 Follow us on social: </h3>
 
